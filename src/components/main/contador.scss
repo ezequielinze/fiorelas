@@ -1,0 +1,10 @@
+.contbtn {
+    background-color: rgb(252, 205, 205);
+    display: flex;
+    justify-content: center;
+    .btn {
+        color: blue;
+        margin: 6px;
+        font-size: 20px;
+    }
+}
